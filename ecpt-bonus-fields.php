@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Easy Content Types: Bonus Meta Field Types
-Plugin URI: http://pippinsplugins.com/easy-content-types-bonus-fields/
+Plugin URI: http://themeisle.com/plugins/ecpt-bonus-meta-field-types/
 Description: Provides several additional field types for the Easy Content Types Plugin, including taxonomy select, menu select, color picker, google map, and separator
-Author: Pippin Williamson
-Author URI: http://pippinsplugins.com
-Version: 1.1.6
+Author: ThemeIsle
+Author URI: http://themeisle.com
+Version: 1.1.7
 */
 
 /******************************************************
